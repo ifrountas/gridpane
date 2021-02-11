@@ -1,8 +1,4 @@
-##########################
-
-	GOACCESS SITE LOG
-
-##########################
+# GOACCESS SITE LOG
 
 1. Replace the <DOMAIN-NAME> with your domain
 
